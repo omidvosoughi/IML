@@ -1,0 +1,9 @@
+pandas
+jupyter
+pytorch-lightning
+sklearn
+ConfigSpace
+matplotlib
+testbook
+pytest
+tqdm
